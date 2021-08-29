@@ -10,6 +10,7 @@ import {
 } from 'react-bootstrap';
 function Notes() {
   return (
+    
     <Container>
       <Row>
         <Col sm={4}>
@@ -22,7 +23,6 @@ function Notes() {
               <ListGroup.Item>Note 3</ListGroup.Item>
             </ListGroup>
             </Card.Body>
-
           </Card>
         </Col>
         <Col sm={8}>
